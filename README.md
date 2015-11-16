@@ -23,5 +23,5 @@ pinba-debugger -in=0.0.0.0:30002
 ```
 
 # TODO
-[] More verbose output
-[] Filters for `server_name`, `script_name` etc.
+- [ ]  More verbose output
+- [ ]  Filters for `server_name`, `script_name` etc.
